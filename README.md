@@ -37,7 +37,7 @@ Python, pandas, NumPy, matplotlib, seaborn
 
 **Samuel Onewo, RN, MSDS**  
 Clinical Nurse transitioning to Healthcare Informatics & Data Science  
-[LinkedIn]([#](https://www.linkedin.com/in/samuel-onewo-246501132/)) | [GitHub](https://github.com/xoNelz)
+[LinkedIn](https://www.linkedin.com/in/samuel-onewo-246501132/) | [GitHub](https://github.com/xoNelz)
 
 ## Next Steps
 
